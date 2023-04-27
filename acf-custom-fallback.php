@@ -6,7 +6,7 @@ Description: This plugin extends Advanced Custom Fields by allowing you to displ
 Version: 2.0
 Author: Anthony Raudino
 Author URI: https://madewithhearts.com.au/
-License: GPL2
+License: License: GPL-3.0-or-later
 */
 
 // Add shortcode
