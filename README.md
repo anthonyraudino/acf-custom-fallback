@@ -65,20 +65,6 @@ Now, when a visitor views the post or page, they will see the author name if it 
 
 If you have any questions or issues with the plugin, please feel free to open an issue in the repository.
 
-Sure, here's an updated readme that includes a GPL license note:
-
-# Advanced Custom Fields Custom Field Fallback
-
-A shortcode plugin that extends Advanced Custom Fields and allows you to display a custom fallback text if field content is empty.
-
-## Description
-
-This plugin extends Advanced Custom Fields by allowing you to display custom fallback text when a field is empty using the `[acf_field_fallback]` shortcode. Additionally, you can use the `[acf_checkboxes_list]` shortcode to display ACF checkboxes fields in a list format.
-
-## Installation
-
-To install the plugin, simply download the latest release from the GitHub repository and upload it to your WordPress site using the standard plugin installation process. Once installed and activated, you can start using the new shortcodes in your posts, pages, or templates.
-
 ## License
 
 This plugin is released under the GNU General Public License v3.0. You are free to modify and distribute the plugin as per your requirements.
