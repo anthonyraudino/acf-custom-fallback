@@ -3,7 +3,7 @@
 Plugin Name: ACF Field Fallback
 Plugin URI: https://github.com/anthonyraudino/acf-custom-fallback/
 Description: This plugin extends Advanced Custom Fields by allowing you to display custom fallback text when a field is empty using the [acf_field_fallback] shortcode. Additionally, you can use the [acf_checkboxes_list] shortcode to display ACF checkboxes fields in a list format.
-Version: 2.0
+Version: 2.0.1
 Author: Anthony Raudino
 Author URI: https://madewithhearts.com.au/
 License: License: GPL-3.0-or-later
